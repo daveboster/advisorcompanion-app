@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "RWHVCP63QS.app.advisorcompanion" ],
+             "appIDs": [ "RWHVCP63QS.group.newfire.Advisor-Companion", "RWHVCP63QS.app.advisorcompanion" ],
              "components": [
                {
                   "#": "no_universal_links",
@@ -27,11 +27,9 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "RWHVCP63QS.app.advisorcompanion" ]
+      "apps": [ "RWHVCP63QS.group.newfire.Advisor-Companion", "RWHVCP63QS.app.advisorcompanion" ]
    },
-
-
     "appclips": {
-        "apps": ["RWHVCP63QS.app.advisorcompanion.clip"]
+        "apps": ["RWHVCP63QS.group.newfire.Advisor-Companion.Clip", "RWHVCP63QS.app.advisorcompanion.Clip"]
     }
 }
